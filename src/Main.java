@@ -72,7 +72,6 @@ class User implements Observer {
 
 public class Main {
     public static void main(String[] args) {
-        // Создаем 4 группы
         Group group1 = new Group("Группа 1");
         Group group2 = new Group("Группа 2");
         Group group3 = new Group("Группа 3");
